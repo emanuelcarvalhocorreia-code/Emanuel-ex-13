@@ -17,3 +17,8 @@ se(numero==0)
 
 se(numero>maior)
  maior=numero
+escreva("maior número digitado foi: ", maior)
+  escreva("Você digitou ", contador, " números")
+
+}
+}
